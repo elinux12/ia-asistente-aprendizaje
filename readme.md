@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="icon.png" width="128" alt="IA Asistente de Aprendizaje">
+</p>
 # 🦉 IA Asistente de Aprendizaje
 
 **IA Asistente de Aprendizaje** es un plugin educativo diseñado para ayudarte a aprender a programar con el acompañamiento de modelos inteligentes como Gemini y Claude. Ideal para estudiantes, autodidactas y curiosos que desean explorar el mundo del código con guía contextual y visual.
